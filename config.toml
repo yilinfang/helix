@@ -1,0 +1,8 @@
+theme = "tokyonight"
+
+[editor]
+true-color = true
+cursorline = true
+
+[editor.cursor-shape]
+insert = "bar"
