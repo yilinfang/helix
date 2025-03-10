@@ -4,16 +4,11 @@ theme = "tokyonight"
 bufferline = "multiple"
 cursorline = true
 line-number = "relative"
-rulers = [120]
 true-color = true
 end-of-line-diagnostics = "hint"
 
 [editor.cursor-shape]
 insert = "bar"
-
-[editor.indent-guides]
-character = "╎"
-render = true
 
 [editor.inline-diagnostics]
 cursor-line = "error" # Show inline diagnostics when the cursor is on the line
